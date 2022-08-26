@@ -9,6 +9,6 @@
 
 
 <br>
-![png](src\test_date_2.jpg)
+![png](https://github.com/junhong-tom/junhong-tom.github.io/blob/main/src/test_date_2.jpg)
 
 
